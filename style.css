@@ -1,0 +1,26 @@
+
+.menu {
+    list-style: none;
+    text-align: center;
+
+    
+}
+
+.menu li {
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;  
+    font-size: 30px;  
+}
+
+
+.socks_cadre {
+    border: 2px solid;
+    border-radius: 5px;
+    margin: 15px;
+    text-align: center;
+    background-color: beige;
+        
+}
+
+
