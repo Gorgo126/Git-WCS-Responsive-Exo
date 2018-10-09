@@ -37,25 +37,10 @@ h2 {
         
 }
 
-.socks4:hover {
-    border: 5px dashed;
-    position: absolute;
-    top: 10%;
-    left: 4%;
-    font-size: 20px;
-    border: 2px solid red;
-    border-radius: 10px 10px 10px 10px;
-    padding: 25px;
-    padding-left: 30%;
-    padding-right: 30%;
-    background-color: white;
-    opacity: 0.8;
+footer {
+    text-align: center;
 }
 
-.socks4 {
-    opacity: 0;
-    
-}
 
 
 
